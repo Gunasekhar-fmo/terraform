@@ -22,3 +22,8 @@ sqs/.terraform
 sqs/.terraform.lock.hcl
 sqs/terraform.tfstate
 sqs/terraform.tfstate.backup
+
+dynamodb/.terraform
+dynamodb/.terraform.lock.hcl
+dynamodb/terraform.tfstate
+dynamodb/terraform.tfstate.backup
